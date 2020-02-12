@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ateisseire3/static/css/main.815ed05a.chunk.css",
-    "main.js": "/ateisseire3/static/js/main.0f667ff6.chunk.js",
-    "main.js.map": "/ateisseire3/static/js/main.0f667ff6.chunk.js.map",
-    "runtime-main.js": "/ateisseire3/static/js/runtime-main.15064f0d.js",
-    "runtime-main.js.map": "/ateisseire3/static/js/runtime-main.15064f0d.js.map",
-    "static/js/2.d0a975aa.chunk.js": "/ateisseire3/static/js/2.d0a975aa.chunk.js",
-    "static/js/2.d0a975aa.chunk.js.map": "/ateisseire3/static/js/2.d0a975aa.chunk.js.map",
-    "index.html": "/ateisseire3/index.html",
-    "precache-manifest.54b87ce02d3bfc8352b44ee87f873d22.js": "/ateisseire3/precache-manifest.54b87ce02d3bfc8352b44ee87f873d22.js",
-    "service-worker.js": "/ateisseire3/service-worker.js",
-    "static/css/main.815ed05a.chunk.css.map": "/ateisseire3/static/css/main.815ed05a.chunk.css.map",
-    "static/js/2.d0a975aa.chunk.js.LICENSE.txt": "/ateisseire3/static/js/2.d0a975aa.chunk.js.LICENSE.txt",
-    "static/media/AT REEL.mp4": "/ateisseire3/static/media/AT REEL.4ea41c43.mp4",
-    "static/media/Outtakes Reel.mp4": "/ateisseire3/static/media/Outtakes Reel.7aa11436.mp4",
-    "static/media/TipTree_ForWeb.mp4": "/ateisseire3/static/media/TipTree_ForWeb.68de2ddf.mp4"
+    "main.css": "/static/css/main.815ed05a.chunk.css",
+    "main.js": "/static/js/main.3066c4d5.chunk.js",
+    "main.js.map": "/static/js/main.3066c4d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4cde7061.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4cde7061.js.map",
+    "static/js/2.d0a975aa.chunk.js": "/static/js/2.d0a975aa.chunk.js",
+    "static/js/2.d0a975aa.chunk.js.map": "/static/js/2.d0a975aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.76e253e26e8ded4c7263eca58aff7011.js": "/precache-manifest.76e253e26e8ded4c7263eca58aff7011.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.815ed05a.chunk.css.map": "/static/css/main.815ed05a.chunk.css.map",
+    "static/js/2.d0a975aa.chunk.js.LICENSE.txt": "/static/js/2.d0a975aa.chunk.js.LICENSE.txt",
+    "static/media/AT REEL.mp4": "/static/media/AT REEL.4ea41c43.mp4",
+    "static/media/Outtakes Reel.mp4": "/static/media/Outtakes Reel.7aa11436.mp4",
+    "static/media/TipTree_ForWeb.mp4": "/static/media/TipTree_ForWeb.68de2ddf.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.15064f0d.js",
+    "static/js/runtime-main.4cde7061.js",
     "static/js/2.d0a975aa.chunk.js",
     "static/css/main.815ed05a.chunk.css",
-    "static/js/main.0f667ff6.chunk.js"
+    "static/js/main.3066c4d5.chunk.js"
   ]
 }
