@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "ateisseire.com/static/css/main.815ed05a.chunk.css",
-    "main.js": "ateisseire.com/static/js/main.89357c30.chunk.js",
-    "main.js.map": "ateisseire.com/static/js/main.89357c30.chunk.js.map",
-    "runtime-main.js": "ateisseire.com/static/js/runtime-main.f53c3156.js",
-    "runtime-main.js.map": "ateisseire.com/static/js/runtime-main.f53c3156.js.map",
-    "static/js/2.d0a975aa.chunk.js": "ateisseire.com/static/js/2.d0a975aa.chunk.js",
-    "static/js/2.d0a975aa.chunk.js.map": "ateisseire.com/static/js/2.d0a975aa.chunk.js.map",
-    "index.html": "ateisseire.com/index.html",
-    "precache-manifest.ae7ef57c566e7d919c431c5a3ed1c69d.js": "ateisseire.com/precache-manifest.ae7ef57c566e7d919c431c5a3ed1c69d.js",
-    "service-worker.js": "ateisseire.com/service-worker.js",
-    "static/css/main.815ed05a.chunk.css.map": "ateisseire.com/static/css/main.815ed05a.chunk.css.map",
-    "static/js/2.d0a975aa.chunk.js.LICENSE.txt": "ateisseire.com/static/js/2.d0a975aa.chunk.js.LICENSE.txt",
-    "static/media/AT REEL.mp4": "ateisseire.com/static/media/AT REEL.4ea41c43.mp4",
-    "static/media/Outtakes Reel.mp4": "ateisseire.com/static/media/Outtakes Reel.7aa11436.mp4",
-    "static/media/TipTree_ForWeb.mp4": "ateisseire.com/static/media/TipTree_ForWeb.68de2ddf.mp4"
+    "main.css": "/static/css/main.815ed05a.chunk.css",
+    "main.js": "/static/js/main.3066c4d5.chunk.js",
+    "main.js.map": "/static/js/main.3066c4d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4cde7061.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4cde7061.js.map",
+    "static/js/2.d0a975aa.chunk.js": "/static/js/2.d0a975aa.chunk.js",
+    "static/js/2.d0a975aa.chunk.js.map": "/static/js/2.d0a975aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.76e253e26e8ded4c7263eca58aff7011.js": "/precache-manifest.76e253e26e8ded4c7263eca58aff7011.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.815ed05a.chunk.css.map": "/static/css/main.815ed05a.chunk.css.map",
+    "static/js/2.d0a975aa.chunk.js.LICENSE.txt": "/static/js/2.d0a975aa.chunk.js.LICENSE.txt",
+    "static/media/AT REEL.mp4": "/static/media/AT REEL.4ea41c43.mp4",
+    "static/media/Outtakes Reel.mp4": "/static/media/Outtakes Reel.7aa11436.mp4",
+    "static/media/TipTree_ForWeb.mp4": "/static/media/TipTree_ForWeb.68de2ddf.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.f53c3156.js",
+    "static/js/runtime-main.4cde7061.js",
     "static/js/2.d0a975aa.chunk.js",
     "static/css/main.815ed05a.chunk.css",
-    "static/js/main.89357c30.chunk.js"
+    "static/js/main.3066c4d5.chunk.js"
   ]
 }
