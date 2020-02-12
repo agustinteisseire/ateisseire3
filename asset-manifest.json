@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "agustinteisseire.github.io/ateisseire3/static/css/main.fde42125.chunk.css",
+    "main.js": "agustinteisseire.github.io/ateisseire3/static/js/main.00f7fe4d.chunk.js",
+    "main.js.map": "agustinteisseire.github.io/ateisseire3/static/js/main.00f7fe4d.chunk.js.map",
+    "runtime-main.js": "agustinteisseire.github.io/ateisseire3/static/js/runtime-main.ae7dcd0f.js",
+    "runtime-main.js.map": "agustinteisseire.github.io/ateisseire3/static/js/runtime-main.ae7dcd0f.js.map",
+    "static/js/2.d0a975aa.chunk.js": "agustinteisseire.github.io/ateisseire3/static/js/2.d0a975aa.chunk.js",
+    "static/js/2.d0a975aa.chunk.js.map": "agustinteisseire.github.io/ateisseire3/static/js/2.d0a975aa.chunk.js.map",
+    "index.html": "agustinteisseire.github.io/ateisseire3/index.html",
+    "precache-manifest.01d1c103828860279760409e2d78fa09.js": "agustinteisseire.github.io/ateisseire3/precache-manifest.01d1c103828860279760409e2d78fa09.js",
+    "service-worker.js": "agustinteisseire.github.io/ateisseire3/service-worker.js",
+    "static/css/main.fde42125.chunk.css.map": "agustinteisseire.github.io/ateisseire3/static/css/main.fde42125.chunk.css.map",
+    "static/js/2.d0a975aa.chunk.js.LICENSE.txt": "agustinteisseire.github.io/ateisseire3/static/js/2.d0a975aa.chunk.js.LICENSE.txt",
+    "static/media/AT REEL.mp4": "agustinteisseire.github.io/ateisseire3/static/media/AT REEL.4ea41c43.mp4",
+    "static/media/Outtakes Reel.mp4": "agustinteisseire.github.io/ateisseire3/static/media/Outtakes Reel.7aa11436.mp4",
+    "static/media/TipTree_ForWeb.mp4": "agustinteisseire.github.io/ateisseire3/static/media/TipTree_ForWeb.68de2ddf.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7dcd0f.js",
+    "static/js/2.d0a975aa.chunk.js",
+    "static/css/main.fde42125.chunk.css",
+    "static/js/main.00f7fe4d.chunk.js"
+  ]
+}
